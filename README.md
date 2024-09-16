@@ -1,12 +1,15 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlbGpuam9mdTlhcXlqYXV2c2hiN3U1c2ZudnF3dDZzcTkxNjgyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+</div>
+  
 <!--
 **Pawel-Wojc/Pawel-Wojc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently studying I
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-C#
+-.NET Core
+-ASP.NET Web API
+-Entity Framework Core, 
