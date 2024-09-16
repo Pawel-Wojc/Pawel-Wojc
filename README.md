@@ -2,7 +2,7 @@
   <a href = "https://www.linkedin.com/in/pawe%C5%82-w%C3%B3jcik-973b38235/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="pwojcik.it" target="_blank">
+  <a href="https://pwojcik.it/" target="_blank">
     <img src="https://img.shields.io/badge/pwojcik.it-green?style=for-the-badge" alt="My website"/>
   </a>  
 </div>
@@ -11,6 +11,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlbGpuam9mdTlhcXlqYXV2c2hiN3U1c2ZudnF3dDZzcTkxNjgyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
 </div>
 
+---
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -29,7 +30,7 @@
 </div>
   
   
-
+---
 ### :fire: My Stats :
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pawel-Wojc&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
